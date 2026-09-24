@@ -1,1 +1,1 @@
-# number-guess-game-cpp-project-
+# number-guess-game (cpp-project)
